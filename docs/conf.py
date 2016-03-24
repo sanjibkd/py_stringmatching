@@ -15,8 +15,8 @@
 import sys
 
 # add path - warning: needs to updated based on package path
-# sys.path.append('/scratch/pradap/python-work/py_stringmatching')
-sys.path.append('/Users/pradap/Documents/Research/Python-Package/py_stringmatching')
+sys.path.append('/scratch/pradap/python-work/anhaidgroup/py_stringmatching')
+#sys.path.append('/Users/pradap/Documents/Research/Python-Package/py_stringmatching')
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
