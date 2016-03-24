@@ -22,7 +22,7 @@ Dependencies
 Step by Step Installation Instruction
 -------------------------------------
 Step 1: Download the py_stringmatching package from `here
-<http://pradap-www.cs.wisc.edu/py_stringmatching/anhaidgroup/py_stringmatching-0.1.0tar.gz>`_
+<http://pradap-www.cs.wisc.edu/py_stringmatching/anhaidgroup/py_stringmatching-0.1.0.tar.gz>`_
 into your home directory.
 
 You can download into any directory within your home directory. For now we assume that you use a
@@ -32,7 +32,7 @@ Also, we assume that you have sufficient privileges to install a python package.
 
 Step 2: Unzip the package by executing the following command::
 
-    tar -xzvf py_stringmatching.tar.gz
+    tar -xzvf py_stringmatching-0.1.0.tar.gz
 
 py_stringmatching will be unpackaged into directory "HOME/py_stringmatching-0.1.0
 
