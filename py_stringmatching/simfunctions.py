@@ -499,6 +499,10 @@ def dice(set1, set2):
         0.5454545454545454
         >>> dice(['data', 'management'], ['data', 'data', 'science'])
         0.5
+
+    References:
+        * Wikipedia article : https://en.wikibooks.org/wiki/Algorithm_Implementation/Strings/Dice%27s_coefficient
+        * Simmetrics library
     """
     # input validations
     utils.sim_check_for_none(set1, set2)
