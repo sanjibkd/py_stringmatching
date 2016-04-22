@@ -108,6 +108,7 @@ class BagDistanceTestCases(unittest.TestCase):
     def test_invalid_input6(self):
         bag_distance(12.90, 12.90)
 
+
 class JaroTestCases(unittest.TestCase):
     def test_valid_input(self):
         # https://en.wikipedia.org/wiki/Jaro%E2%80%93Winkler_distance
